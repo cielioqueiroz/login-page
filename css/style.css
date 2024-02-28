@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background-color: #1a1414;
 }
 
 #login {
@@ -17,6 +18,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  max-width: 1536px;
+  margin: 0 auto;
 }
 
 .divGroup {
